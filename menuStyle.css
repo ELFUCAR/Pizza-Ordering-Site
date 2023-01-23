@@ -1,0 +1,37 @@
+p{
+font-weight:verdana;
+font-color:green;
+font-size:20px;
+}
+.btn
+{
+	background:orange;
+	border:1px solid orange;
+	color:white;
+	font-weight:bold;
+	font-family:verdana;
+	font-size:15px;
+	width:100px;
+	height:30px;
+}
+
+
+
+.saydam
+ 
+{
+ 
+    width: 800px;
+ 
+    height:300px;
+ 
+    margin: 10px 10px 10px 10px; 
+ 
+    background-color: #FFFFCC;
+ 
+    border: 1px solid;
+ 
+    opacity: 0.8; 
+}
+
+.
